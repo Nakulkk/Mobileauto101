@@ -41,5 +41,5 @@ public class LoginPageSauce extends BasePage {
 //git add README.md
 //git commit -m "first commit"
 //git branch -M main
-//git remote add origin https://github.com/Nakulkk/Mobileauto101.git
+//git remote add origin https://github.com/PrajaktKharat/mobileauto101.git
 //git push -u origin main
