@@ -1,0 +1,141 @@
+2026-10-12 14:54:46 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
+2026-10-12 15:19:13 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
+2026-10-12 17:32:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:32:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:33:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:33:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:33:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:33:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:35:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:35:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:36:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:36:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:37:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:37:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:38:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:38:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:39:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:39:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:40:21 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:40:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 17:40:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 17:40:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:06:16 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
+2026-10-12 18:10:26 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:10:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:12:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:12:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:16:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:16:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:16:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:16:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:32:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
+2026-10-12 18:32:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
+
+2026-10-12 18:40:34 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
+2026-10-12 18:40:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
+
+2026-10-12 18:42:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
+2026-10-12 18:42:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
+
+2026-10-12 18:47:42 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
+2026-10-12 18:47:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
+
+2026-10-12 18:50:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:50:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:51:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:51:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:56:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:56:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:56:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:56:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:56:31 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:56:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:56:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:56:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:57:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:57:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 18:57:15 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 18:57:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:00:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:00:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:00:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:01:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:01:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:01:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:01:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:05:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:05:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:05:58 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:06:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:06:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:06:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:06:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:07:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:07:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:08:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:08:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-12 19:08:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-12 19:08:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+

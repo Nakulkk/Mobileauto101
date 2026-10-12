@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ccst" verbose="1">
+
+    <test name="No browser">
+        <classes>
+            <class name="test.Exption"/>
+            <class name="test.GoogleTest"/>
+        </classes>
+    </test>
+
+    <test name="Login Browser">
+        <classes>
+            <class name="test.GoogleTest">
+                <methods>
+                    <exclude name="empty"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
