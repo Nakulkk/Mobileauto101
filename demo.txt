@@ -1,0 +1,35 @@
+package Test;
+
+import base.baseTest;
+import data.TestData;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import pages.LoginPage;
+
+public class LoginNegativeTest extends baseTest {
+
+    @Test(dataProvider = "invalidLogins", dataProviderClass = TestData.class)
+    public void testInvalidLogin(String username, String password) {
+        log.info("=== Starting testInvalidLogin for user: {} ===", username);
+
+        LoginPage loginPage = new LoginPage(driver);
+
+        log.info("Navigating to target URL");
+        loginPage.URL();
+
+        log.info("Attempting login with invalid credentials: {}", username);
+        loginPage.performLogin(username, password);
+
+        String currentUrl = driver.getCurrentUrl();
+
+        try {
+            Assert.assertTrue(currentUrl.contains("/login"), "User navigated away despite invalid credentials.");
+            log.info("Assertion passed: User remained on the login endpoint.");
+        } catch (AssertionError e) {
+            log.error("Assertion failed: Expected to stay on login page, but URL was: {}", currentUrl, e);
+            throw e;
+        }
+
+        log.info("=== Completed testInvalidLogin successfully for user: {} ===", username);
+    }
+}

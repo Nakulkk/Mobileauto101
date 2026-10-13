@@ -1,7 +1,9 @@
 package page;
+
 import base.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class LoginPageSauce extends BasePage {
 
@@ -17,29 +19,35 @@ public class LoginPageSauce extends BasePage {
         return "https://www.saucedemo.com/";
     }
 
-    public void enterUsername(String username) {
-        waitForVisibility(usernameField).sendKeys(username);
+    public LoginPageSauce open() {
+        driver.get(url());
+        return this;
     }
 
-    public void enterPassword(String password) {
-        waitForVisibility(passwordField).sendKeys(password);
+    public LoginPageSauce enterUsername(String username) {
+        WebElement element = waitForVisibility(usernameField);
+        element.clear();
+        element.sendKeys(username);
+        return this;
+    }
+
+    public LoginPageSauce enterPassword(String password) {
+        WebElement element = waitForVisibility(passwordField);
+        element.clear();
+        element.sendKeys(password);
+        return this;
     }
 
     public void clickLogin() {
         waitForVisibility(loginButton).click();
     }
 
-    public InventoryPage loginas(String username, String password) {
+    public InventoryPage loginAs(String username, String password, String experror) {
         enterUsername(username);
         enterPassword(password);
         clickLogin();
         return new InventoryPage(driver);
     }
-}
 
-//git init
-//git add README.md
-//git commit -m "first commit"
-//git branch -M main
-//git remote add origin https://github.com/PrajaktKharat/mobileauto101.git
-//git push -u origin main
+
+}

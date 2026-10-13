@@ -1,45 +1,47 @@
 package test;
 
-import base.BasePage;
 import base.BaseTest;
-import com.sun.net.httpserver.Authenticator;
+
+import data.TestData;
+import framework.DriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-import page.LoginPage;
+import page.LoginPageSauce;
 import page.InventoryPage;
-import java.time.Duration;
-import page.LoginPage;
-import page.InventoryPage;
-public class LoginSauceemo extends LoginPage {
 
-    LoginPage loginPage;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 
-    public LoginSauceemo(WebDriver driver) {
-        super(driver);
-    }
+public class LoginSauceemo extends BaseTest {
 
-    @BeforeMethod
-    public void openlogin(){
-        loginPage = new LoginPage(driver);
+    LoginPageSauce loginPage;
+
+    @BeforeMethod(alwaysRun = true)
+    @Parameters("browser")
+    public void openLogin(@Optional("chrome") String name)  {
+        loginPage = new LoginPageSauce(driver);
         loginPage.open();
+        System.out.println("browser name :" + name);
     }
 
-    @Test(priority = 1, description = "standard user sees products")
-    public void ValidLoginshowproduct(){
+    @Test(priority = 1, description = "standard user sees products",dataProvider = "invalidlogin",dataProviderClass = TestData.class)
+    public void validLoginShowProduct(String user,String pass,String experror) {
+        InventoryPage inv = loginPage.loginAs(user,pass,experror);
 
-        InventoryPage inv = loginPage.loginas("standard_user", "secret_sauce");
-
-        Assert.assertTrue(Authenticator.Retry.util(inv::isPageLoaded, Duration.ofSeconds(5)), "inventory page should load");
+        Assert.assertNotEquals(inv.isPageLoaded(), "Inventory page should load");
 
         SoftAssert soft = new SoftAssert();
 
-        soft.assertEquals(inv.title(), "Products", "Page title mismatch");
+        soft.assertNotEquals(inv.getTitle(), "Products", "Page title mismatch");
 
-        soft.assertEquals(inv.itemCount(), 6, "Number of products mismatch");
+        soft.assertNotEquals(inv.getItemCount(), 6, "Number of products mismatch");
 
         soft.assertAll();
     }
+
 }

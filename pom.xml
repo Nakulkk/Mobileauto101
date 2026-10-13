@@ -18,6 +18,7 @@
         <log4j.version>2.26.1</log4j.version>
         <maven.compiler.plugin.version>3.13.0</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
+        <suitFile>suits/testng.xml</suitFile>
     </properties>
 
     <dependencies>
@@ -75,7 +76,7 @@
                 <version>${maven.surefire.plugin.version}</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>${suitFile}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

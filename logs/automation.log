@@ -139,3 +139,62 @@
 2026-10-12 19:08:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
 
+2026-10-13 10:33:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-13 10:35:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-13 10:37:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
+2026-10-13 11:24:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
+2026-10-13 11:25:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
+2026-10-13 11:59:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-13 11:59:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-13 11:59:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 11:59:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml
+
+2026-10-13 12:01:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:01:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml
+
+2026-10-13 12:06:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-13 12:07:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-13 12:07:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:09:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:11:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:12:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:14:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:19:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
+2026-10-13 12:19:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:20:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:21:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:22:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:24:48 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:25:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:26:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:27:36 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:28:43 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:35:46 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
+2026-10-13 12:40:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 12:41:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 12:43:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 12:47:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 12:49:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 12:50:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 14:51:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 14:56:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 14:56:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:00:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:04:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:09:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:12:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:13:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 15:43:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-13 15:43:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-13 16:12:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-13 16:14:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+2026-10-13 16:14:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-10-13 16:20:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
