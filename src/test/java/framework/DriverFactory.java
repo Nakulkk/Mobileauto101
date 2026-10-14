@@ -15,7 +15,7 @@ public final class DriverFactory {
     }
 
     public static WebDriver create(String browser){
-        boolean headless = false;
+        boolean headless = Boolean.parseBoolean(System.getProperty("headless", "false"));
 
         switch (browser.trim().toLowerCase()){
             case "chrome":{

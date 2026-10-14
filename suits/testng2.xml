@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Ccst" verbose="1">
+<suite name="Ccst" verbose="1"  parallel="tests" thread-count="3" data-provider-thread-count="4">
     <parameter name="browser" value="chrome"></parameter>
     <test name="Chrome">
         <classes>
             <class name="test.LoginSauceemo"/>
         </classes>
     </test>
-    <parameter name="browser1" value="Edge"></parameter>
+    <parameter name="browser" value="Edge"></parameter>
     <test name="Edge">
         <classes>
             <class name="test.edgeopnSaucelab"/>
         </classes>
     </test>
-    <parameter name="browser2" value="FireFox"></parameter>
+    <parameter name="browser" value="FireFox"></parameter>
     <test name="FireFox">
         <classes>
             <class name="test.FilefoxsauceDemo"/>

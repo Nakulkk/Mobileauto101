@@ -1,0 +1,5 @@
+username,password,expected_error
+Locked_out_user,secret_sauce,Locked out
+standard_user,wrong_password,do not match
+,secret_sauce,Username is required
+standard_user,,Password is required

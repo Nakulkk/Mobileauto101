@@ -1,200 +1,1345 @@
-2026-10-12 14:54:46 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
-2026-10-12 15:19:13 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
-2026-10-12 17:32:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:32:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 10:24:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@f107c50 priority: 10
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@4748a0f9 priority: 10
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@1a760689 priority: 10
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:33:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:33:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 10:24:13 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 10:24:13 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:13 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:13 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:18 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:22 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:22 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:24 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:24 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:25 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:27 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:28 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:28 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:29 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:32 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:32 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:32 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:33 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:33 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:34 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:34 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:35 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:39 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:40 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:40 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:40 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:40 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:41 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:43 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:44 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:45 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:45 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1979787155] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@539d019]
+2026-10-14 10:24:50 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:50 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:51 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 2044282225] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4b14918a]
+2026-10-14 10:24:53 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:24:53 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:24:58 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:04 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:07 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:25:07 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:13 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:19 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:22 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:25:23 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:27 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:32 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:34 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 10:25:34 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 840083671] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@7241a47d]
+2026-10-14 10:25:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@39fcbef6: 1 ms
+2026-10-14 12:46:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 12:47:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@16eccb2e priority: 10
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@2c1156a7 priority: 10
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@22bac7bc priority: 10
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:33:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:33:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 12:47:17 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 12:47:17 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:17 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:17 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:20 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:20 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:27 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:47:28 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:47:29 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:47:31 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:47:38 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:40 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:47:41 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:47:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6eafb10e: 1 ms
+2026-10-14 12:50:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@16eccb2e priority: 10
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@2c1156a7 priority: 10
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@22bac7bc priority: 10
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:35:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:35:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 12:50:11 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 12:50:11 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:11 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:11 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:14 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:17 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:50:18 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@33fe57a9]
+2026-10-14 12:50:21 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:24 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:50:25 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:50:25 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:28 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:50:29 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@63798ca7]
+2026-10-14 12:50:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@464a4442: 0 ms
+2026-10-14 12:51:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@6bc407fd priority: 10
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@1941a8ff priority: 10
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@7502291e priority: 10
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:36:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:36:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 12:51:51 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 12:51:51 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:51 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:51:51 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:53 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:51:53 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:51:58 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:51:59 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 12:52:00 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:52:01 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@22d7b4f8]
+2026-10-14 12:52:05 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:52:08 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:52:08 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@17aad511]
+2026-10-14 12:52:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6d64b553: 0 ms
+2026-10-14 12:58:39 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@16eccb2e priority: 10
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@33fe57a9 priority: 10
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@63798ca7 priority: 10
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:37:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:37:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 12:58:39 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-10-14 12:58:39 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:39 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:39 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1627010197] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:58:42 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:42 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:48 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:58:48 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:58:52 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:58:53 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1784834205] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:58:57 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1627010197] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:59:00 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1627010197] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:59:01 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1627010197] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4612b856]
+2026-10-14 12:59:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@796d3c9f: 0 ms
+2026-10-14 12:59:26 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@16eccb2e priority: 10
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@33fe57a9 priority: 10
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@46944ca9 priority: 10
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:38:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:38:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 12:59:26 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 12:59:26 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:26 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:26 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 753426788] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:29 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:34 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:59:34 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1373577787] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@4982cc36]
+2026-10-14 12:59:36 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 753426788] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:38 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 753426788] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:59:38 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 753426788] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6dab9b6d]
+2026-10-14 12:59:39 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:41 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 12:59:41 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 1624817884] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@22bac7bc]
+2026-10-14 12:59:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3aefae67: 0 ms
+2026-10-14 13:19:15 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@5a3bc7ed priority: 10
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@4fad9bb2 priority: 10
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@5dd1c9f2 priority: 10
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:39:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:39:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 13:19:16 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 13:19:16 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 13:19:16 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 388802347] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:19:16 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1403716230] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:16 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 756080817] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:17 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 756080817] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@517d4a0d]
+2026-10-14 13:19:18 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1403716230] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:22 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1403716230] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:19:23 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1403716230] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@6b88ca8c]
+2026-10-14 13:19:23 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 756080817] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:19:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@6bc407fd priority: 10
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@38831718 priority: 10
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@17aad511 priority: 10
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:40:21 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:40:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 13:19:45 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-14 13:19:45 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:45 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:45 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:19:47 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:19:51 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:58 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:19:58 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1910896157] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19e4fcac]
+2026-10-14 13:19:59 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:20:00 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 1586470445] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@2c1156a7]
+2026-10-14 13:20:11 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:20:18 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:20:19 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 265577219] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@487db668]
+2026-10-14 13:20:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@69c6161d: 0 ms
+2026-10-14 13:23:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:24:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:25:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:25:42 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:26:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:26:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:27:35 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:28:28 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
+2026-10-14 13:30:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Chrome' with parallel mode:tests
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@3403e2ac priority: 10
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Edge' with parallel mode:tests
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@5dd1c9f2 priority: 10
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'FireFox' with parallel mode:tests
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@5f0e9815 priority: 10
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=test.LoginSauceemo]
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml
 
-2026-10-12 17:40:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 17:40:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:06:16 [main] INFO  base.BasePage - Hello Hum Expection Calss Me hai !!
-2026-10-12 18:10:26 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:10:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:12:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:12:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:16:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:16:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:16:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:16:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:32:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
-2026-10-12 18:32:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
-
-2026-10-12 18:40:34 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
-2026-10-12 18:40:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
-
-2026-10-12 18:42:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
-2026-10-12 18:42:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
-
-2026-10-12 18:47:42 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml"
-2026-10-12 18:47:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\src\test\java\suits\testng.xml
-
-2026-10-12 18:50:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:50:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:51:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:51:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:56:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:56:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:56:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:56:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:56:31 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:56:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:56:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:56:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:57:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:57:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 18:57:15 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 18:57:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:00:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:00:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:00:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:01:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:01:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:01:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:01:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:05:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:05:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:05:58 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:06:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:06:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:06:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:06:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:07:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:07:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:08:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:08:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-12 19:08:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-12 19:08:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-13 10:33:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
-2026-10-13 10:35:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
-2026-10-13 10:37:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
-2026-10-13 11:24:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
-2026-10-13 11:25:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
-2026-10-13 11:59:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-13 11:59:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-13 11:59:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 11:59:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml
-
-2026-10-13 12:01:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:01:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml
-
-2026-10-13 12:06:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
-2026-10-13 12:07:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng.xml"
-2026-10-13 12:07:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:09:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:11:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:12:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:14:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:19:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng1.xml"
-2026-10-13 12:19:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:20:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:21:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:22:33 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:24:48 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:25:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:26:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:27:36 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:28:43 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:35:46 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng2.xml"
-2026-10-13 12:40:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 12:41:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 12:43:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 12:47:55 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 12:49:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 12:50:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 14:51:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 14:56:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 14:56:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:00:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:04:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:09:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:12:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:13:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 15:43:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-13 15:43:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-13 16:12:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
-2026-10-13 16:14:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-2026-10-13 16:14:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CCST\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
-
-2026-10-13 16:20:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\CCST\Desktop\Mobauto101\suits\testng3formulticlassmultifile.xml"
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 3 TestRunners
+2026-10-14 13:30:07 [main] INFO  org.testng.internal.Utils - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:3
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.internal.Utils - [TestRunner] Running test Edge on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.internal.Utils - [TestRunner] Running test FireFox on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.internal.Utils - [TestRunner] Running test Chrome on 1  classes,  included groups:[] excluded groups:[]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass - ===== Test class
+test.LoginSauceemo
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass -   @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass -     @Test LoginSauceemo.validLoginShowProduct()[pri:1, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass -   @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.TestClass - ======
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.TestClass - ======
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.TestClass - ======
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-14 13:30:07 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 859123506] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:07 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1052768296] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:07 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 503595296] Invoking @BeforeMethod BaseTest.startBrowser(java.lang.String)[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:09 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1052768296] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:09 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 859123506] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:13 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1052768296] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:30:13 [TestNG-tests-1] INFO  org.testng.internal.Utils - [Invoker 1052768296] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@19b93fa8]
+2026-10-14 13:30:16 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 859123506] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:30:16 [TestNG-tests-2] INFO  org.testng.internal.Utils - [Invoker 859123506] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@59b38691]
+2026-10-14 13:30:20 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 503595296] Invoking @BeforeMethod LoginSauceemo.openLogin(java.lang.String)[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:22 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 503595296] Invoking test.LoginSauceemo.validLoginShowProduct
+2026-10-14 13:30:22 [TestNG-tests-3] INFO  org.testng.internal.Utils - [Invoker 503595296] Invoking @AfterMethod BaseTest.closeBrowser()[pri:0, instance:test.LoginSauceemo@76884e4b]
+2026-10-14 13:30:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c9b78e3: 0 ms

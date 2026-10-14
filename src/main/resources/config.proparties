@@ -1,0 +1,6 @@
+browser=chrome
+env=qa
+baseUrl=https://automationexercise.com
+headless=false
+
+tester=practice
